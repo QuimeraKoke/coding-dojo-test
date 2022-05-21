@@ -15,7 +15,7 @@ There's some annotations given:
 
 ## Propose Solution
 
-Because the application position includes mastery on Python/HTML/CSS/JS/Django I decided to use Django as backend and 
+Because the application position includes mastery on Python 3.7/HTML/CSS/JS/Django 3.2 I decided to use Django as backend and 
 template render using vanilla HTML/CSS/JS for the web. Additionally, I will use some frameworks and libraries to manage 
 the objects/models in the request as django-rest-framework and libraries as bootstrap for a better looking 😎.
 
